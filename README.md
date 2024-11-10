@@ -1,6 +1,9 @@
 # Projet de Classification du Diabète
 
 Ce projet vise à classifier les indicateurs de santé liés au diabète en utilisant l'apprentissage automatique. Le dataset utilisé est le **Diabetes Health Indicators Dataset** de Kaggle. Le projet comprend le traitement des données, la visualisation, et l'entraînement de modèles pour prédire le risque de diabète à partir des indicateurs de santé.
+## Dataset
+
+- `Lien du dataset` : https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 
 ## Structure du Projet
 
