@@ -14,5 +14,5 @@ Les principaux fichiers du projet sont organisés comme suit :
 ## Installation
 
 Pour démarrer avec ce projet, vous aurez besoin de Python 3 et des dépendances suivantes :
-
+```bash
 pip install numpy pandas scikit-learn matplotlib
