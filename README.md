@@ -11,6 +11,9 @@ Les principaux fichiers du projet sont organisés comme suit :
 - `images/` : Dossier pour enregistrer les graphiques et figures générés.
 - `README.md` : Documentation pour le projet.
 
+## Utilisation
+Pour exécuter ce projet, ouvrez le notebook diabetes_classification.ipynb et exécutez chaque cellule. Le notebook gérera le téléchargement du dataset, l'exploration des données, et les visualisations.
+
 ## Installation
 
 Pour démarrer avec ce projet, vous aurez besoin de Python 3 et des dépendances suivantes :
